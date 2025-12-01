@@ -1,3 +1,5 @@
+//PARA O FRONT
+
 const BASE_API = 'http://localhost:3000';
 
 // Funções de validação
@@ -118,3 +120,4 @@ if (document.getElementById('usersTable')) {
         }
     }
 }
+
